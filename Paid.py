@@ -397,17 +397,17 @@ logo = ("""\x1b[1;92m
 \x1b[1;92m| )   ( || )   ( |/\____) || )   ( || )  \  |
 \x1b[1;92m|/     \||/     \|\_______)|/     \||/    )_)
 
-\x1b[1;92m --                        [Tera•°•toBap]÷(Hasan-Vau)
+\x1b[1;92m --                        [Your•°•Bap]÷(Hasan-Vau)
 
 \033[1;92m༄🤼.᭄\x1b[1;90m════════════════════════════════════════════\x1b[1;92m༄GF-NAI😥᭄
 \033[1;92m༄🤼.᭄\x1b[1;90m════════════════════════════════════════════\x1b[1;92m༄GF-NAI😥᭄
            \x1b[1;92m╔═════════════════════════════╗
-           \x1b[1;92m║ TOOL NAME :   Hasan-Not-Free  ║
-           \x1b[1;92m║ AUTHOR    : °°HASAN-VAU°°     ║
-           \x1b[1;92m║ GITHUB    : git.me/KgHasan    ║
-           \x1b[1;92m║ FACEBOOK  : HASA N            ║
-           \x1b[1;92m║ Fb Gp     : Kg Spamming team  ║
-           \x1b[1;92m║ WHATSAPP : {+8801996636652 }  ║
+           \x1b[1;92m║ TOOL NAME :   Hasan-Not-Free║
+           \x1b[1;92m║ AUTHOR    : °°HASAN-VAU°°   ║
+           \x1b[1;92m║ GITHUB    : git.me/KgHasan  ║
+           \x1b[1;92m║ FACEBOOK  : HASA N          ║
+           \x1b[1;92m║ Fb Gp     : Kg Spamming team║
+           \x1b[1;92m║ WHATSAPP : {+8801996636652 }║
            \x1b[1;92m╚═════════════════════════════╝
 \033[1;92m༄Mr.᭄\x1b[1;90m════════════════════════════════════════════\x1b[1;92m༄HASAN-VAU᭄
 \033[1;92m༄Mr.᭄\x1b[1;90m════════════════════════════════════════════\x1b[1;92m༄HASAN-VAU᭄""")
