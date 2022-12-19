@@ -1,4 +1,3 @@
-
 import marshal
 #Script 100% Aman Tanpa Logger !!
 #Script 100% Aman Tidak Menghapus Data !!
